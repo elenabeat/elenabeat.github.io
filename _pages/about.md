@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 This is the personal site of Elena Jaramillo Rodriguez.
-I am a Data Scientist and AI Product Engineer in Government and Public Services at [Deloitte](https://www2.deloitte.com/us/en.html). My offering portfolio is in Artificial Intelligence and Data Operations. I work mainly with Federal agencies to build ML and GenAI applications to solve their needs.
+I am a Senior Data Scientist at [Humana](https://www.humana.com/). My train and deploy machine learning models and generative AI applications.
 
 In June 2023 I received my PhD in Mathematics at [UC Davis](https://www.math.ucdavis.edu/ "UCD Math"); my advisor was [Jesus De Loera](https://www.math.ucdavis.edu/~deloera/ "Jesus De Loera").
 I previously earned my MS in Mathematics from UC Davis in 2021 and my BA in Applied Mathematics from [UC Berkeley](https://math.berkeley.edu/ "UCB Math") in 2018.
